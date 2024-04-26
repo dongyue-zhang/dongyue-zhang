@@ -15,18 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Dongyue Zhang, a full-stack developer 👩‍💻
-- 💪 I'm currently learning C++ and want to explore assembly languages, compilers and computer architectures in the future
-- 🤖 My projects = { <br>
-🛒 youShop: https://onlineshopping-youshop.herokuapp.com/, <br>
-🛍️ Expenses Recorder: https://expenses-recorder.herokuapp.com/, <br>
-🤩 Personal Portfolio: https://dongyue-zhang-portfolio.herokuapp.com/ <br>
+### I'm Molly, a software developer 👩‍💻
+🤖 My projects = { <br>
+🏄 [ActiveTO](http://159.89.121.107:8080/): a Java REST API<br>
+🛍️ [Expenses Recorder](http://159.89.121.107/apps/expenserecorder/): a MERN application<br>
+🛒 [youShop](http://159.89.121.107/apps/youshop/index.php): a PHP shopping website<br>
 } <br>
-- I'm also a badminton lover 🏸 && photography amateur 📷 && si-fi lover 👽<br>
 ### Find out more about me || say hi to me 👇 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-dongyuezhang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrahkinay/)](
 https://www.linkedin.com/in/dongyue-zhang-507549224/) [![Gmail Badge](https://img.shields.io/badge/-zhangdongyue22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhangdongyue22@gmail.com)](mailto:zhangdongyue22@gmail.com)
-
 
 
 

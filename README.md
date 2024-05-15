@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### I'm Molly, a software developer 👩‍💻
+Visit my [portfolio](http://159.89.121.107/)
 🤖 My projects = { <br>
 🏄 [ActiveTO](http://159.89.121.107:8080/): a Java REST API<br>
 🛍️ [Expenses Recorder](http://159.89.121.107/apps/expenserecorder/): a MERN application<br>

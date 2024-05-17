@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### I'm Molly, a software developer 👩‍💻
-😄 Visit my [Portfolio](http://159.89.121.107/) <br>
+😄 Visit my [Portfolio](https://www.mollyzhang.dev/) <br>
 🤖 My projects = { <br>
-🏄 [ActiveTO](http://159.89.121.107:8080/): a Java REST API<br>
-🛍️ [Expenses Recorder](http://159.89.121.107/apps/expenserecorder/): a MERN application<br>
-🛒 [youShop](http://159.89.121.107/apps/youshop/index.php): a PHP shopping website<br>
+🏄 [ActiveTO](https://www.mollyzhang.dev/apps/activeto): a Java REST API<br>
+🛍️ [Expenses Recorder](https://www.mollyzhang.dev/apps/expenserecorder/): a MERN application<br>
+🛒 [youShop](https://www.mollyzhang.dev/apps/youshop/index.php): a PHP shopping website<br>
 } <br>
 ### Find out more about me || say hi to me 👇 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-dongyuezhang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrahkinay/)](

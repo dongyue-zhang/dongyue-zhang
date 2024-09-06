@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I'm Molly, a software developer 👩‍💻
 😄 Visit my [Portfolio](https://www.mollyzhang.dev/) <br>
 🤖 My projects = { <br>
-🏄 [ActiveTO](https://www.mollyzhang.dev/apps/activeto): a Java REST API<br>
+🏄 [ActiveTO](https://www.mollyzhang.dev/apps/activeto): a Angular web app powered by a Java REST API(https//www.mollyzhang.dev.apps/activeto/api<br>
 🛍️ [Expenses Recorder](https://www.mollyzhang.dev/apps/expenserecorder/): a MERN application<br>
 🛒 [youShop](https://www.mollyzhang.dev/apps/youshop/index.php): a PHP shopping website<br>
 } <br>
